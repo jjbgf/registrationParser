@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/jjbgf/registrationParser/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+
 # registrationParser
 This command line tool allows to parse form fields from given pdf files.
 
